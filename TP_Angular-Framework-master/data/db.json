@@ -1,0 +1,52 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "iphone",
+      "price": 7999,
+      "checked": true
+    },
+    {
+      "id": 2,
+      "name": "pc",
+      "price": 4000,
+      "checked": true
+    },
+    {
+      "name": "smartwatch",
+      "price": "3000",
+      "checked": true,
+      "id": 3
+    },
+    {
+      "name": "smartwatch",
+      "price": "5000",
+      "checked": true,
+      "id": 4
+    },
+    {
+      "name": "macbook",
+      "price": "12000",
+      "checked": true,
+      "id": 5
+    },
+    {
+      "name": "ecran",
+      "price": "45000",
+      "checked": true,
+      "id": 6
+    },
+    {
+      "name": "u",
+      "price": 0,
+      "checked": false,
+      "id": 7
+    },
+    {
+      "name": "q",
+      "price": 0,
+      "checked": false,
+      "id": 8
+    }
+  ]
+}
